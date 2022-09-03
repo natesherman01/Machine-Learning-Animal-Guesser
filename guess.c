@@ -188,4 +188,4 @@ void rewriteDB(node *rootNode)
     freeTree(rootNode);
 
     fclose(file);
-}
+} 
